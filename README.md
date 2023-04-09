@@ -10,7 +10,7 @@ Se ha implementado un script en python que se encarga de buscar archivos y carpe
 
 - Clonamos el archivo 
 ```python
-git clone 
+git clone https://github.com/Emerson-Portugal/rastredor-archivos.git
 ```
 > Tu puedes modificar los nombres de los archivos y carpetas, segun sea tu necesidad de busqueda
 
